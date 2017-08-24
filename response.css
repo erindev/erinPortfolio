@@ -1,0 +1,141 @@
+/********************response-pc1************************/
+@media all and (min-width:1824px){}
+@media all and (min-width:1281px) and (max-width:1823px){}
+@media all and (min-width:901px) and (max-width:1280px){
+	#main h3 {font-size:33px;}
+	#visual_1, #visual_2 {height:600px;}
+	.navbar {top:528px;}
+	#about img {width:220px;}
+	#about div.col-sm-2 {margin-top:80px;}
+	#about div.intro p {    width: 70%;
+    margin: 20px auto;}
+	#about div.col-sm-2.del {display:none;}
+	#about div.col-sm-2 {width:30%;}
+	#visual_2 h3 {margin-top:330px;}
+	
+	#about div.col-sm-2.text-right .show {display:none;}
+	
+}
+@media all and (min-width:768px) and (max-width:900px){
+	#main h3 {font-size:32px;}
+	#visual_1, #visual_2 {height:500px;}
+	.navbar {top:428px;}
+	#about img {width:220px;}
+	#about div.col-sm-2 {margin-top:80px;}
+	#about div.intro p {    width: 70%;
+    margin: 20px auto;}
+	#about div.col-sm-2.del {display:none;}
+	#about div.col-sm-2 {width:30%;}
+	#visual_2 h3 {margin-top:330px;}
+	#about b {font-size:17px;}
+	#about button {font-size:16px;}
+	
+	
+	#about div.col-sm-2.text-right .show {display:none;}
+	
+}
+@media all and (min-width:630px) and (max-width:767px){
+	.container {position:relative;}
+	#about .col-sm-4.text-center {position: absolute;
+    top: 60px;
+    left: 15%;}
+	#main .devide {height:50px;}
+	h1 {background-size:150px;}
+	#main h3 {font-size:26px;}
+	#visual_1 {height:200px;}
+	#visual_2 {height:200px;}
+	.navbar {top:328px; margin-top:5px;}
+	#about img {width:170px;}
+	#about div.col-sm-2 {margin-top:80px;}
+	#about div.intro p {    width: 70%;
+    margin: 20px auto;}
+	#about div.col-sm-2.del {display:none;}
+	#about div.col-sm-2 {    width: 80%;}
+	#visual_2 h3 {margin-top:0px;
+	    padding-top: 75px;}
+	#about b {font-size:17px; display:inline;  font-size:16px;}
+	#about span {font-size:13px;}
+	#about button {font-size:16px;}
+	
+	.navbar-nav{overflow: hidden;}
+	.nav>li {float:left;}
+	#about div.col-sm-2.del2 {display:none;}
+	#about div.col-sm-2.text-right .show {display:show;}
+
+	#portfolio .btn-block{display:none;}
+	
+	
+}
+@media all and (min-width:421px) and (max-width:629px){
+	.container {position:relative;}
+	#about .col-sm-4.text-center {    position: absolute;
+    top: 83px;
+    left: 2%;}
+	#main .devide {height:50px;}
+	h1 {background-size:150px;}
+	#main h3 {font-size:26px;}
+	#visual_1 {height:200px;}
+	#visual_2 {height:200px;}
+	.navbar {top:328px;margin-top:5px;}
+	#about img {width:150px;}
+	#about div.col-sm-2 {margin-top:80px;}
+	#about div.intro p {    width: 70%;
+    margin: 20px auto;}
+	#about div.col-sm-2.del {display:none;}
+	#about div.col-sm-2 {    width: 91%;}
+	#visual_2 h3 {margin-top:0px;
+	    padding-top: 75px;}
+	#about b {font-size:17px; display:inline;  font-size:16px;}
+	#about span {font-size:13px;}
+	#about button {font-size:16px;}
+	
+	.navbar-nav{overflow: hidden;}
+	.nav>li {float:left;}
+	#about div.col-sm-2.del2 {display:none;}
+	#about div.col-sm-2.text-right .show {display:show;}
+
+	
+	.btn-block {width:60%;}
+	
+	.creatures li {width:48%;}
+			#portfolio .btn-block{display:none;}
+	
+	
+	
+	
+}
+@media all and (max-width:420px){
+		.container {position:relative;}
+	#about .col-sm-4.text-center {    position: absolute;
+    top: 83px;
+    left: 2%;}
+	#main .devide {height:50px;}
+	h1 {background-size:150px;}
+	#main h3 {font-size:26px;}
+	#visual_1 {height:200px;}
+	#visual_2 {height:200px;}
+	.navbar {top:328px;}
+	#about img {width:150px;}
+	#about div.col-sm-2 {margin-top:80px;}
+	#about div.intro p {    width: 70%;
+    margin: 20px auto;}
+	#about div.col-sm-2.del {display:none;}
+	#about div.col-sm-2 {    width:91%;}
+	#visual_2 h3 {margin-top:0px;
+	    padding-top: 75px;}
+	#about b {font-size:17px; display:inline;  font-size:16px;}
+	#about span {font-size:13px;}
+	#about button {font-size:16px;}
+	
+	.navbar-nav{overflow: hidden;}
+	.nav>li {float:left;}
+	#about div.col-sm-2.del2 {display:none;}
+	#about div.col-sm-2.text-right .show {display:show;}
+
+	
+	.btn-block {width:60%;}
+		#portfolio .btn-block{display:none;}
+	
+	.creatures li {width:48%;}
+	
+}
