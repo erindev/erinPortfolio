@@ -79,7 +79,7 @@ a {
 }
 
 #wrapper {
-	position: relative; 
+	position: relative;
 }
 
 .carousel-inner>.item>a>img,
@@ -312,7 +312,7 @@ body {
 /*----------------------------------
     Macbook pro mockup from:
     http://jaredhardy.com/minimal-devices/
-    
+
 ----------------------------------*/
 
 .md-macbook-pro {
@@ -1125,6 +1125,11 @@ a {
 	background-size: 70%;
 }
 
+.node {
+	background: url("./img/node.png") no-repeat center center;
+	background-size: 70%;
+}
+
 
 
 /* Reset ================ */
@@ -1147,10 +1152,10 @@ body {
 
 
 /*
-        
+
 a { cursor:pointer; text-decoration:none; color:#111; }
 a:hover { text-decoration:underline; }
-    
+
 */
 
 
@@ -1255,7 +1260,7 @@ li:nth-child(5n+4) figure {
 /*
     li:hover figure { padding:30px 40px; }
     li:hover .click-anim { transform:translateY(-6px); }
-    
+
 */
 
 .click-anim {
@@ -1270,18 +1275,18 @@ li:active .click-anim {
 
 /*
 
- Captions ====================================================     
+ Captions ====================================================
     figcaption { padding:10px 0; font-size:12px; font-family:monospace; }
 
-    em { font-family:"Georgia", serif; }    
+    em { font-family:"Georgia", serif; }
     figcaption a { display:inline-block; color:#494636; border-bottom:1px solid transparent; white-space:nowrap; }
     figcaption a:hover { text-decoration:underline; }
-        
+
     time { display:block; }
-    time a { font-size:11px; }  
-    
-    
-    
+    time a { font-size:11px; }
+
+
+
 */
 
 
@@ -1331,10 +1336,10 @@ li:active .shadow {
     .moustache { display:inline-block; width:100%; height:10px; }
     .moustache:before, .moustache:after { display:inline-block;  color:rgba(0,0,0,.9); content:"~"; font-size:4em; line-height:0; font:5em/20px "Helvetica", Arial; margin:0 -4px; }
     .moustache:before { transform:rotateY(180deg); }
-    
+
     li:hover .moustache { animation:moustache-wiggle 2s infinite; }
     @keyframes moustache-wiggle { 50%,90%{ transform:none; } 60%,80%{ transform:rotate(-5deg); } 70%{ transform:rotate(5deg); } }
-    
+
 */
 
 
@@ -1353,10 +1358,10 @@ li:active .shadow {
         transition:border-radius .5s, height .5s cubic-bezier(.15,.60,.30,1.9);
         overflow:hidden;
         line-height:0;
-        transform-origin:center top; 
+        transform-origin:center top;
     }
 
-    
+
     .teeth:after,
     .teeth:before,
     .tooth:after {
@@ -1379,7 +1384,7 @@ li:active .shadow {
     .hungry .mouth { animation:hungry .5s infinite; border-radius:30px 30px 50% 50%; height:80px; }
     .hungry .mouth:hover { cursor:none; }
         @keyframes hungry { 40%{ height:40px; } }
-    
+
     .nervous .mouth { animation:nervous .2s infinite; border-radius:40% 40% 5px 5px; }
         @keyframes nervous { 50%{ height:24px; } }
 */
@@ -1412,13 +1417,13 @@ li:active .shadow {
 		text-align: left;
 		padding: 30px 15px;
 	}
-	
-	
+
+
 }
 
 @media screen and (min-width:820px) {
-	
-	
+
+
 	header section,
 	section {
 		width: 840px;
@@ -1435,7 +1440,7 @@ li:active .shadow {
 		animation: enter .7s .2s both;
 		transform-origin: center top;
 	}
-	
+
 /*
 	@keyframes enter {
 		0% {
