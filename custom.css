@@ -1130,6 +1130,53 @@ a {
 	background-size: 70%;
 }
 
+/* 2018 */
+.postgres {
+	background: url("./img/postgres.png") no-repeat center center;
+	background-size: 70%;
+}
+
+.redis {
+	background: url("./img/redis.png") no-repeat center center;
+	background-size: 70%;
+}
+
+.java {
+	background: url("./img/java.png") no-repeat center center;
+	background-size: 30%;
+}
+
+.spring {
+	background: url("./img/spring.png") no-repeat center center;
+	background-size: 70%;
+}
+
+.mongo {
+	background: url("./img/mongo.png") no-repeat center center;
+	background-size: 70%;
+}
+
+.azure {
+	background: url("./img/azure.png") no-repeat center center;
+	background-size: 70%;
+}
+
+.bitbucket {
+	background: url("./img/bitbucket.png") no-repeat center center;
+	background-size: 70%;
+}
+
+.apache {
+	background: url("./img/apache.png") no-repeat center center;
+	background-size: 70%;
+}
+
+.solidity {
+	background: url("./img/solidity.png") no-repeat center center;
+	background-size: 70%;
+}
+
+
 
 
 /* Reset ================ */
