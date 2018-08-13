@@ -20,7 +20,7 @@
 	$mail->SMTPSecure = 'ssl';  ////
 	$mail->SMTPAuth = true;
 	$mail->Username ="yjprogrammar@naver.com";		 //// 관리자 naver 아이디
-	$mail->Password = "kang1142002";	 //// 관리자 naver 비밀번호
+	$mail->Password = "Erin1142002!";	 //// 관리자 naver 비밀번호
 	$mail->setFrom('yjprogrammar@naver.com',  $sender_name  );    ////보내는 사람정보
 	$mail->addAddress('yjprogrammar@naver.com', 'admin'); ////받는 사람정보
 	$mail->isHTML(true);   //// Set email format to HTML
