@@ -15,14 +15,14 @@
 	$mail->Encoding = "base64";
 	$mail->isSMTP();
 	$mail->SMTPDebug = 2;
-	$mail->Host = 'smtp.naver.com';    ////
+	$mail->Host = 'smtp.gmail.com';    ////
 	$mail->Port = 465;  ////
 	$mail->SMTPSecure = 'ssl';  ////
 	$mail->SMTPAuth = true;
-	$mail->Username ="yjprogrammar@naver.com";		 //// 관리자 naver 아이디
+	$mail->Username ="erin.kang1020@gmail.com";		 //// 관리자 naver 아이디
 	$mail->Password = "Erin1142002!";	 //// 관리자 naver 비밀번호
-	$mail->setFrom('yjprogrammar@naver.com',  $sender_name  );    ////보내는 사람정보
-	$mail->addAddress('yjprogrammar@naver.com', 'admin'); ////받는 사람정보
+	$mail->setFrom('erin.kang1020@gmail.com',  $sender_name  );    ////보내는 사람정보
+	$mail->addAddress('erin.kang1020@gmail.com', 'admin'); ////받는 사람정보
 	$mail->isHTML(true);   //// Set email format to HTML
 	$mail->Subject = $sender_title  ;  ////제목
 	$mail->Body = $sender_content  ; ////내용
