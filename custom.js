@@ -8,7 +8,7 @@ $(document).ready(function () {
 "use strict";
 	$("#about button").click(function () {
 		
-		var url = "https://goo.gl/EYU4Fu";
+		var url = "https://docs.google.com/document/d/10SpsXPUi4cBnBfEWV11URFBmgqKPySDD3AzvduAsYwg/edit?usp=sharing";
 
 
 
